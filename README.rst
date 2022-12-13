@@ -1,7 +1,0 @@
-SyntaxTree
-##########
-
-
-|img|
-
-.. |img| image:: .
