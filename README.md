@@ -1,4 +1,4 @@
 # SyntaxTree
 
-
-![](https://github.com/srccircumflex/SyntaxTree/edit/main/HighlighterDemo.gif)
+# Demo
+![](https://github.com/srccircumflex/SyntaxTree/blob/main/HighlighterDemo.gif)
