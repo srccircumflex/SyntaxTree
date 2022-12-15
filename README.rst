@@ -3,7 +3,7 @@ SyntaxTree
 
   Partial publication
 
-This module is used in a current framework project and is here excerpted pre-released. (`SyntaxTree WIKI`_)
+This module is used in a current framework project and is here excerpted pre-released. (WIKI_)
 
 A derivative of this object for creating an abstract syntax tree, is used as a highlighter in the display component of the main project.
 
@@ -19,4 +19,4 @@ This will be made available in a separate repository after further testing, bug 
 
 
 .. |demo| image:: https://github.com/srccircumflex/SyntaxTree/blob/main/HighlighterDemo.gif
-.. `SyntaxTree WIKI`: https://github.com/srccircumflex/SyntaxTree/wiki/SyntaxTree
+.. _WIKI: https://github.com/srccircumflex/SyntaxTree/wiki/SyntaxTree
