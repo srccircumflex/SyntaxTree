@@ -19,4 +19,4 @@ This will be made available in a separate repository after further testing, bug 
 
 
 .. |demo| image:: https://github.com/srccircumflex/SyntaxTree/blob/main/HighlighterDemo.gif
-.. SyntaxTree WIKI: https://github.com/srccircumflex/SyntaxTree/wiki/SyntaxTree
+.. `SyntaxTree WIKI`: https://github.com/srccircumflex/SyntaxTree/wiki/SyntaxTree
